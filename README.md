@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# E-Commerce-Analysis
-=======
 # 📊 E-Commerce Sales Data Analysis  
 **An Intermediate-Level Business Insights Project**
 
@@ -75,4 +72,3 @@ pip install -r requirements.txt
 
 3️⃣ Open Jupyter Notebook
 jupyter notebook
->>>>>>> 3b757ce (Folder Structure and Readme File)
